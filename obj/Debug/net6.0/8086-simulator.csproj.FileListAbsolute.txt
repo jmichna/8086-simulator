@@ -1,0 +1,15 @@
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\bin\Debug\net6.0\8086-simulator.exe
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\bin\Debug\net6.0\8086-simulator.deps.json
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\bin\Debug\net6.0\8086-simulator.runtimeconfig.json
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\bin\Debug\net6.0\8086-simulator.dll
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\bin\Debug\net6.0\8086-simulator.pdb
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.csproj.AssemblyReference.cache
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.AssemblyInfoInputs.cache
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.AssemblyInfo.cs
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.csproj.CoreCompileInputs.cache
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.dll
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\refint\8086-simulator.dll
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.pdb
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\8086-simulator.genruntimeconfig.cache
+C:\Users\jmich\source\repos\8086-simulator\8086-simulator\obj\Debug\net6.0\ref\8086-simulator.dll
