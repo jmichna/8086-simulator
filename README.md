@@ -1,5 +1,5 @@
 # 8086-simulator
- This is 8086-simulator written on C#
+ This is 8086-simulator written in C#
  
  # How to use
  
